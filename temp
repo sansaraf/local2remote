@@ -2,4 +2,8 @@ this is first line
 this is 2nd line
 3rd line added
 4th line added
+<<<<<<< HEAD
 5th line local added
+=======
+5th line remote added
+>>>>>>> 3cd107d9669c60d3831449a7a5ec254321f5537e
